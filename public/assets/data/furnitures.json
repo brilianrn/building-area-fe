@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "areaId": "area1",
+      "name": "Eskalator Depan",
+      "path": "/assets/images/IconEscalator.svg",
+      "positionX": 200,
+      "positionY": 50
+    }
+  ],
+  "success": true,
+  "message": "Berhasil"
+}

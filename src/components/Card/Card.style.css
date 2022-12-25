@@ -1,0 +1,19 @@
+.wrapper {
+  @apply min-h-[calc(100%-68px)] bg-white rounded-lg pb-6 p-6 w-full;
+}
+
+.wrapper .header-without-separator {
+  @apply p-6 min-h-[2rem] flex w-full flex-row;
+}
+
+.header-without-separator {
+  @apply flex flex-row items-center min-h-[89px];
+}
+
+.header-without-separator {
+  @apply border-0;
+}
+
+.hr {
+  @apply border-1.5 mb-5 mt-3;
+}
